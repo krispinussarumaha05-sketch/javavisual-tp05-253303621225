@@ -81,3 +81,6 @@ https://docs.google.com/document/d/1P0CGWfY2UCL8z6RCe3fibjA5vaZdDqL6aMHUwy8u5tM/
 ![alt text](<Screenshot 2026-10-23 141450.png>)
 Google Docs TP-05
 https://docs.google.com/document/d/15iQ41bN59iQBiX0s0updeUCX5NTklC86VYO10vsxdQA/edit?usp=sharing
+Google Docs TP-08
+https://docs.google.com/document/d/1BDHQfp-4Ab93L3kNi3bGcRJPEYLGtQyonzQ4dztnd5c/edit?usp=sharing
+![alt text](<Screenshot 2026-10-24 150929.png>)
